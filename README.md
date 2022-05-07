@@ -7,6 +7,8 @@ Workshop items for sysml v2
 * use predefined vm or go to [#manualinstallation]
 * start eclipse (./go_eclipse)
 
+* find 'org.omg.sysml'; right click; Run As ; Eclipse Application
+
 # manual installation
 ## create VM 
 (or use your own platform of choice)

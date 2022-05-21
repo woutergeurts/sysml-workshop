@@ -19,6 +19,7 @@ Workshop items for sysml v2
 you may just copy paste the lines below into the commandline
 
 sudo apt update -y
+sudo apt upgrade
 
 ### install git
 sudo apt install -y git

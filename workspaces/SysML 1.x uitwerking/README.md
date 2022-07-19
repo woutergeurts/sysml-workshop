@@ -10,8 +10,8 @@ Login/access cloud service:
 > Modelname: eaworkshop
 
 (Initial) credentials:
-> wgeurts
-> rkrouwel
-> eburgers
+> wgeurts  
+> rkrouwel  
+> eburgers  
 
 use last name, all lower case as password

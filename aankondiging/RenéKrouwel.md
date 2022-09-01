@@ -1,0 +1,1 @@
+René Krouwel is systeemarchitect bij CGI. Hij is werkzaam in de markt van missie kritische systemen en dan voornamelijk in de kritische infrastructuur zoals tunnels, beweegbare bruggen en sluizen. Hierbij past hij model based systems engineering toe veelal gecombineerd met SysML. Hij is bijzonder geïnteresseerd in standaardisatie, verificatie en validatie.

@@ -1,0 +1,1 @@
+In deze workshop nemen we je mee in het vertalen van een probleem in een SysML v2.0 model, daarbij 

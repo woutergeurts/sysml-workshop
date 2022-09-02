@@ -11,6 +11,6 @@ Het in SysML 2.0 ontworpen model zal worden vergeleken met hetzelfde model besch
 
 Er zal een virtual pc met de SysML 2.0 ontwikkelomgeving beschikbaar worden gesteld aan iedere deelnemer. Het enig wat een deelnemer moet doen is het installeren van Oracle Virtualbox (https://www.virtualbox.org/wiki/Downloads), de rest wordt verzorgt!
 
-En voor diegenen die niet kunnen wachten:
-SysML 2.0 kan worden opgehaald op: https://github.com/Systems-Modeling/SysML-v2-Release.git
+En voor diegenen die niet kunnen wachten: 
+SysML 2.0 kan worden opgehaald op: https://github.com/Systems-Modeling/SysML-v2-Release.git 
 De instructies en workshop benodigdheden op: https://github.com/woutergeurts/sysml-workshop.git

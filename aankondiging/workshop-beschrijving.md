@@ -9,7 +9,8 @@ In deze workshop nemen de grondleggers van het gebruik van SysML in de GWW-secto
 
 Het in SysML 2.0 ontworpen model zal worden vergeleken met hetzelfde model beschreven in SysML 1.x zodat de deelnemers kennis maken met de verschillen en overeenkomsten tussen de oude en nieuwe versie van SysML. De open source tooling is een door INCOSE-vrijwilligers en anderen in ontwikkeling zijnde Model Based Engineering Environment.
 
-Er zal een virtual pc met de SysML 2.0 ontwikkelomgeving beschikbaar worden gesteld aan iedere deelnemer. Het enig wat een deelnemer moet doen is het installeren van Oracle Virtualbox (https://www.virtualbox.org/wiki/Downloads), de rest wordt verzorgt!
+Er zal een virtual pc met de SysML 2.0 ontwikkelomgeving beschikbaar worden gesteld aan iedere deelnemer.
+De deelnemer wordt verzocht een laptop mee te nemen met Oracle Virtualbox (https://www.virtualbox.org/wiki/Downloads) geinstalleerd. Op deze pagina zal nog nadere informatie worden gedeeld om de virtual pc te downloaden: https://github.com/woutergeurts/sysml-workshop/blob/main/aankondiging/Voorbereiding.md
 
 En voor diegenen die niet kunnen wachten: 
 - SysML 2.0 kan worden opgehaald op: https://github.com/Systems-Modeling/SysML-v2-Release.git 

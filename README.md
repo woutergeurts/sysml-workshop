@@ -40,7 +40,7 @@ git clone https://github.com/Systems-Modeling/SySML-v2-Pilot-Implementation.git
 
 ## install eclipse
 
-see https://github.com/Systems-Modeling/SySML-v2-Pilot-Implementation.git 
+see https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/blob/master/README.adoc
 
 Download the Oomph installer into ~/eclipse/eclipse-installer
 

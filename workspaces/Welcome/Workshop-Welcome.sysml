@@ -10,7 +10,7 @@ package 'Workshop Welcome' {
 	}
 	
 	part sysmlWorkshop : Workshop {
-		doc  /* This workshop will be launched in August */
+		doc  /* This workshop will be launched in October */
 		
 	}
 }

@@ -38,6 +38,8 @@ git clone https://github.com/woutergeurts/sysml-workshop.git
 
 git clone https://github.com/Systems-Modeling/SySML-v2-Pilot-Implementation.git
 
+git clone https://github.com/Systems-Modeling/SySML-v2-Release.git
+
 ## install eclipse
 
 see https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/blob/master/README.adoc
@@ -48,3 +50,20 @@ Follow the instructions on https://github.com/Systems-Modeling/SysML-v2-Pilot-Im
 
 Note: we have product version 2022-03
 
+
+## install jupyter
+```
+wget -c https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+chmod +x Miniconda3-latest-Linux-x86_64.sh
+./Miniconda3-latest-Linux-x86_64.sh
+```
+
+answer the question asked by the script
+./Miniconda3-latest-Linux-x86_64.sh
+Restart bash
+
+``` 
+cd ~/SysML-v2-Release/install/jupyter 
+
+./install.sh
+``` 
